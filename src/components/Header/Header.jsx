@@ -28,7 +28,7 @@ const Header = () => {
                 <div className="bg-[#FFFFFF]">
                     <Form model = {openMod} />
                 </div>
-                <div className="px-10 bg-[#FFFFFF] sm:overflow-auto">
+                <div className="px-10 bg-[#FFFFFF]  sm:overflow-auto">
                     <Page  />
                 </div>
                 <div className="px-10 py-10 bg-[#FFFFFF]">
