@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/textile/static/css/main.0e79143e.css",
+    "main.js": "/textile/static/js/main.1930c4af.js",
+    "static/js/787.dfb14431.chunk.js": "/textile/static/js/787.dfb14431.chunk.js",
+    "static/media/profile.png": "/textile/static/media/profile.d892328a043dfc39eaac.png",
+    "static/media/logo.png": "/textile/static/media/logo.6e4d11fe47e7bd331081.png",
+    "index.html": "/textile/index.html",
+    "main.0e79143e.css.map": "/textile/static/css/main.0e79143e.css.map",
+    "main.1930c4af.js.map": "/textile/static/js/main.1930c4af.js.map",
+    "787.dfb14431.chunk.js.map": "/textile/static/js/787.dfb14431.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e79143e.css",
+    "static/js/main.1930c4af.js"
+  ]
+}
